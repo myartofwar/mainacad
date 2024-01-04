@@ -1,2 +1,0 @@
-# mainacad
-study
